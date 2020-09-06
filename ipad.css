@@ -1,0 +1,90 @@
+@media(min-width:768px) {
+    .info-form.ipad {
+        display: flex;
+        max-width: 659px;
+       margin: auto;
+    }
+    .registr-form {
+        justify-content: center;
+    }
+    .info-form {
+        display: none;
+    }
+    .info-form.b{
+        display: none;
+    }
+    .info-input:last-child {
+        min-width: 400px;
+    }
+    .img123 {
+        display: flex;
+        
+        margin: auto;
+        margin-top: 30px;
+    }
+    .registr-form {
+        max-height: 600px;
+    }
+    .btn-ready.big{
+        display: flex; 
+    }
+    .photo-container {
+        flex-direction: row;
+    }
+    
+    .photo {
+        width: 33%;
+        margin-right: 5px;
+        margin-left: 5px;
+    }
+    .photo:first-child {
+        margin-left: -5px;
+    }
+    
+    .gallery-slider.f1 {
+        display: flex;
+        margin-top: 22px;
+    }
+    .partners {
+        margin-left: auto;
+        margin-right: auto;
+        padding-left: 48px;
+    }
+    .partners-name:last-child {
+        margin-bottom: 40px;
+    }
+    
+    .tarif-cell {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    .first-cell{
+        width: 50%;
+    }
+    .second-cell{
+        width: 50%;
+    }
+    .footer-cell {
+        display: flex;
+        flex-direction: row;
+        margin-top: 60px;
+    }
+    .contacts {
+        width: 35%;
+        
+        text-align: left;
+    }
+    .footer-container {
+        width: 65%;
+    }
+    .bg1-img {
+        max-height: 384px;
+    }
+    .header-col {
+        flex-direction: row;
+    }
+    .header-element.p4 {
+        order: -1;
+    }
+}

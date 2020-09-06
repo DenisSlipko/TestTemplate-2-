@@ -1,0 +1,219 @@
+@media(min-width:1280px) {
+    
+    .header-container {
+        height: 54px;
+        align-items: center;
+    }
+    .header-menu {
+        display: none;
+    }
+    
+    .header-menu-list {
+        display: flex;
+        flex-direction: row;
+        padding-left: 112px;
+        padding-right: 112px;
+        height: 35px;
+        align-items: center;
+        
+    }
+    .header-list-item:first-child {
+        color: #86BC42;
+    }
+    .header-list-item {
+        list-style-type: none;
+        margin-left: 35px;
+        margin-right: 35px;
+        font-family: 'Open Sans', sans-serif;
+        font-size: 14px;
+        color: #6E788D;
+        margin-top: -30px;
+    }
+    .header-menu.p2 {
+        display: flex;
+        flex-direction: row;
+        padding: 0;
+        height: 35px;
+    }
+    .header-element:first-child {
+        margin-left: 67px;
+    }
+    .main-title.f2 {
+        display: flex;
+        justify-content: center;
+        margin-top: 68px;
+    }
+    .photo-flower {
+        transform: scale(2);
+        margin-top: 20px;
+        margin-right: 35px;
+    }
+    .photo-flower-right {
+        transform: scale(2);
+        
+    }
+    .header-btn {
+        margin-right: 67px;
+        height: 54px;
+        width: 154px;
+        margin-left: -50px;
+    }
+    .title.p1 {
+        display: flex;
+    }
+    .title2.p2 {
+        color: white;
+    }
+    .registr-form {
+        max-width: 840px;
+    }
+    .partners-wrap {
+        display: flex;
+        flex-direction: row;
+        padding-right: 20px;
+        margin-left: 67px;
+        margin-right: 67px;
+        margin-bottom: 76px;
+    }
+    .partners {
+        min-width: 400px;
+    }
+    .photo-osbb.about {
+        width: 65%;
+        
+    }
+    .photo {
+        margin-right: 15px;
+        margin-left: 15px;
+    }
+    .photo:first-child {
+        margin-left: 10px;
+    }
+    
+    .tarif-form {
+        margin-left: 135px;
+        margin-right: 135px;
+        height: 390px;
+        
+    }
+    
+    .number-input {
+        margin-left: -25px;
+        margin-bottom: 12px;
+    }
+    .news {
+        display: none;
+    }
+    .news.p2 {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        justify-content: center;
+    }
+    .cell-first {
+        width: 50%;
+        margin-right: 95px;
+    }
+    .news-photo {
+        width: 50%;
+    }
+    .main-title.news {
+        display: flex;
+        align-self: center;
+        margin-top: 70px;
+        font-size: 20px;
+    }
+    .main-text.news {
+        display: flex;
+    }
+    .news-wrap {
+        display: flex;
+        flex-direction: row;
+    }
+    .main-title.news2 {
+        margin-left: 67px;
+        font-size: 16px;
+        margin-top: 66px;
+    }
+    .news-photo {
+        margin-right: 0;
+    }
+    .main-text.news {
+        margin-left: 135px;
+        margin-top: 37px;
+        font-size: 16px;
+    }
+    .read-all {
+        float: left;
+        margin-left: 135px;
+        margin-top: 40px;
+    }
+    
+    .news-line {
+        float: left;
+        width: 80px;
+    }
+    .main-title.t {
+        font-size: 20px;
+        margin-top: 40px;
+        margin-bottom: 40px;
+    }
+    .main-title.noUp {
+        font-size: 18px;
+    }
+    .main-text.price {
+        font-size: 16px;
+    }
+    .main-title {
+        font-size: 18px;
+    }
+    .main-text {
+        font-size: 16px;
+    }
+    .b1-img{
+        height: 492px;
+    }
+    .tarif-container {
+        max-height: 492px;
+    }
+    .partners-name {
+        font-size: 16px;
+    }
+    .footer-container {
+        display: flex;
+        flex-direction: row;
+        width: 75%;
+    }
+    .phone {
+        margin-left: 121px;
+    }
+    .contacts {
+        width: 25%;
+    }
+    .first-col-fot {
+        margin-right: 50px;
+    }
+    .footer-flower {
+        margin-top: 89px;
+    }
+    .title-reg1 {
+        margin-top: 46px;
+        font-size: 36px;
+    }
+    .title-reg2 {
+        font-size: 24px;
+        margin-bottom: 63px;
+    }
+    .img123 {
+        margin-top: 47px;
+    }
+    .bg1-img {
+        max-height: 492px;
+    }
+    .main-title.h1  {
+        display: none;
+    };
+    
+    
+    
+}
